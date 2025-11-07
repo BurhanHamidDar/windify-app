@@ -1,0 +1,11 @@
+{
+  "appId": "com.windify.app",
+  "appName": "Windify",
+  "webDir": "dist",
+  "server": {
+    "url": "https://windify1.netlify.app",
+    "cleartext": true
+  }
+}
+
+
